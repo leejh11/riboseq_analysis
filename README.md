@@ -8,6 +8,12 @@ This file contains codes to combine processed data and perform pausing analysis.
 Github_Pausing_Analysis.R<br/>
 This file contains codes to visualize sites that show age-dependent increase in pausing. 
 
+Github_Disome_Analysis.R<br/>
+This file contains codes to identify potential disome forming sites specific in old condition. 
+
+Github_tRNA_analysis.R<br/>
+This files contains codes for analyzing tRNA abundance and charging data. Please download processed data files (Anticodon_counts_raw.txt and CCAcounts.txt) from GEO. 
+
 For pre-processing of sequencing data, please refer to https://github.com/kcstein/riboSeq_processing_annotation.
-The final output from above repository (.codon files) are used as input in this repository. 
+The final output from above GEO repository (.codon files) are used as input for the codes. 
 
